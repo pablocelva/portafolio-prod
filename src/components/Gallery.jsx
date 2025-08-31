@@ -1,0 +1,21 @@
+export default function Gallery() {
+    return (
+        <section className="gallery">
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+            <img src="https://media.gettyimages.com/id/1944195181/photo/swirl-spiral-abstract-red-green-motion-speed-blured-shape-hypnosis-vintage-retro-spiritual-on.jpg?s=612x612&w=gi&k=20&c=2791_3LDAnip0XmSUdI304-NV3ojOTG7G6gAHT1ZsVI=" alt="Random Image" />
+        </section>
+    )
+}
