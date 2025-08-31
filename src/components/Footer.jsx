@@ -6,10 +6,9 @@ export default function Footer() {
     return (
         <footer>
             <h2>PROD</h2>
-            <p>Portafolio 2025</p>
-            <ul className="icons links"> 
-                <ul className={`nav-links ${open ? "open" : ""}`}>
-             {/* Redes sociales */}
+            {/* <p>Portafolio 2025</p> */}
+            {/* <ul className="icons links">  */}
+                {/* <ul className={`nav-links ${open ? "open" : ""}`}> */}
       <div className="logos">
         <a href="https://www.spotify.com" target="_blank" rel="noreferrer">
           <FaSpotify className="inline w-6 h-6 hover:text-green-400" />
@@ -24,8 +23,8 @@ export default function Footer() {
           <FaFacebook className="inline w-6 h-6 hover:text-blue-400" />
         </a>
       </div>
-      </ul>
-            </ul>
+      {/* </ul> */}
+            {/* </ul> */}
         </footer>
     )
 }
