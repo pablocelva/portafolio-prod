@@ -120,6 +120,8 @@ footer {
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  height: 100vh;
+  overflow: hidden;
 }
 
 .gallery img {
@@ -131,7 +133,9 @@ footer {
 .about {
   display: flex;
   flex-direction: row;
-  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
   padding: 2em;
   width: 80%;
   margin: auto;
@@ -139,7 +143,7 @@ footer {
 
 
 .about-desc {
-  /* width: 100%; */
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -154,6 +158,10 @@ footer {
 .about,
 .gallery {
   box-sizing: border-box; /* 👈 asegura que padding/gap no rompan el ancho */
+}
+
+.about-logo {
+  margin : auto;
 }
 
 .contact-layout {
@@ -346,5 +354,11 @@ footer {
     gap: 1rem;
     text-align: center;
     z-index: 1;
+  }
+}
+
+@media (max-width: 1200px) {
+  .about {
+    flex-direction: column-reverse;
   }
 }
